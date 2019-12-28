@@ -12,13 +12,10 @@ jupyter-core
 notebook
 pillow
 lxml
-matplotlib
 newspaper3k
 textstat
 nltk
 tweepy
-numpy
-scipy
 pycorenlp
 sklearn
 contractions
